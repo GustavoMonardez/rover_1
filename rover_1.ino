@@ -7,6 +7,8 @@
  *
  */
 
+void receiver_init();
+
 void setup() {
     
 }
